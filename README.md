@@ -1,7 +1,8 @@
-### Hello, I'm Jonathan but most people know me as Jonte 👋 
+<h1 align="center">Hello, I'm Jonathan but most people know me as Jonte 👋 </h1>
+<h3 align="center"> Software Development Student || Web Developer || Self-Taught 3D Artist </h3>
 
 ## About me
-* 📚 2022 .NET Software Developer Graduate
+* 📚 2022 .NET Software Development Graduate
 * 💚 Love webdevelopment! Frontend and backend alike!
 * 🎮 Big fan of gaming
 * ✨ Hobbies: 3D art, Photography
