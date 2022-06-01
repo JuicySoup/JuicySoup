@@ -12,7 +12,6 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 <a href="https://icons8.com">icons by Icons8</a>
