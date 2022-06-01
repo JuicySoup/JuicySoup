@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jonathan but most people know me as Jonte 👋 </h1>
-<h3 align="center"> Software Development Student || Web Developer || Self-Taught 3D Artist </h3>
+<h3 align="center"> Fullstack Web Developer || Self-Taught 3D Artist </h3>
 
 ## About me
 * 📚 2022 .NET Software Development Graduate
@@ -12,5 +12,7 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/>
 
 <a href="https://icons8.com">icons by Icons8</a>
